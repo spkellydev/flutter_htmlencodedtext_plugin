@@ -1,6 +1,6 @@
 # htmlencodedtext
 
-A Flutter plugin that makes it easier to show HTML Encoded Text in your Material Flutter apps.
+A Flutter plugin that makes it easier to show HTML Encoded Text (from outside APIs perhaps) in your Material Flutter apps.
 
 ## Dependencies
 
