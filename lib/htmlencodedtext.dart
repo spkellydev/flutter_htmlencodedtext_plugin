@@ -5,7 +5,7 @@ import 'src/mixins/html_mixin.dart';
 import 'src/mixins/html_parser.dart';
 import 'package:html_unescape/html_unescape.dart';
 
-/// Description: Processes HTML from a [string], and converts it into Flutter-friendly [RichText]
+/// Description: Processes HTML from a [string], and converts it into Flutter-friendly [RichText] with build method
 ///
 /// Constructor: <String> [rawHtml]
 ///

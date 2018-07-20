@@ -232,6 +232,7 @@ class HtmlParser {
         this._parseEndTag(this._getStackLastItem());
       }
 
+      /// Todo -- find and handle broken HTML elements ie: <This is the text</p>>
       if (html == last) {
         throw 'Parse Error: ' + html;
       }
