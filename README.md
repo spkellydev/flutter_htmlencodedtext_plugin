@@ -59,4 +59,4 @@ Don't hesitate to create pull requests.
 #### Roadmap
 
 - Support block status for HTML heading tags
-- Find and handle invalid HTML (ie: "<This is a poorly formatted paragraph tag</p>>)
+- Find and handle invalid HTML (ie: "<This is a poorly formatted paragraph tag</p >>)
