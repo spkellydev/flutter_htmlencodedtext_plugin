@@ -1,6 +1,6 @@
 name: htmlencodedtext
-description: A new flutter package project.
-version: 0.0.1
+description: A Flutter plugin that makes it easier to show HTML Encoded Text (from outside APIs perhaps) in your Material Flutter apps.
+version: 0.0.2
 author: Sean Kelly <spkellydev@gmail.com>
 homepage: http://spk.design
 
